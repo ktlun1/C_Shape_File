@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\WindowsApp1\WindowsApp1\bin\Release\File IO.exe.config
+C:\Users\User\source\repos\WindowsApp1\WindowsApp1\bin\Release\File IO.exe
+C:\Users\User\source\repos\WindowsApp1\WindowsApp1\bin\Release\File IO.pdb
+C:\Users\User\source\repos\WindowsApp1\WindowsApp1\obj\Release\FileIO.File.resources
+C:\Users\User\source\repos\WindowsApp1\WindowsApp1\obj\Release\fileIO.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsApp1\WindowsApp1\obj\Release\File IO.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsApp1\WindowsApp1\obj\Release\File IO.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsApp1\WindowsApp1\obj\Release\File IO.exe
+C:\Users\User\source\repos\WindowsApp1\WindowsApp1\obj\Release\File IO.pdb
+C:\Users\User\source\repos\WindowsApp1\WindowsApp\bin\Release\File IO.exe.config
+C:\Users\User\source\repos\WindowsApp1\WindowsApp\bin\Release\File IO.exe
+C:\Users\User\source\repos\WindowsApp1\WindowsApp\bin\Release\File IO.pdb
+C:\Users\User\source\repos\WindowsApp1\WindowsApp\obj\Release\FileIO.File.resources
+C:\Users\User\source\repos\WindowsApp1\WindowsApp\obj\Release\fileIO.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsApp1\WindowsApp\obj\Release\File IO.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsApp1\WindowsApp\obj\Release\File IO.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsApp1\WindowsApp\obj\Release\File IO.exe
+C:\Users\User\source\repos\WindowsApp1\WindowsApp\obj\Release\File IO.pdb
