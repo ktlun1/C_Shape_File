@@ -25,7 +25,7 @@ namespace FileIO
             {
                 fileName = fdlg.FileName;
                 filePath = Path.GetDirectoryName(fdlg.FileName);
-                textBox1.Text = System.IO.File.ReadAllText(fdlg.FileName);
+                textBoxMain.Text = System.IO.File.ReadAllText(fdlg.FileName);
             }
         }
 
@@ -40,7 +40,7 @@ namespace FileIO
             fdlg.FileName = Path.GetFileName(fileName);
             if (fdlg.ShowDialog() == DialogResult.OK)
             {
-                System.IO.File.WriteAllText(fdlg.FileName, textBox1.Text);               
+                System.IO.File.WriteAllText(fdlg.FileName, textBoxMain.Text);               
             }
         }
 
@@ -49,7 +49,7 @@ namespace FileIO
             System.Windows.Forms.Application.Exit();
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private void textBoxMain_TextChanged(object sender, EventArgs e)
         {
 
         }
