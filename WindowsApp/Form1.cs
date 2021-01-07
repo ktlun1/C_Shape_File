@@ -2,7 +2,7 @@
 using System.IO;
 using System.Windows.Forms;
 
-namespace WindowsApp1
+namespace FileIO
 {
     public partial class File : Form
     {

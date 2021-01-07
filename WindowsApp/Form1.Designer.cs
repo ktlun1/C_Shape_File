@@ -1,5 +1,5 @@
 ﻿
-namespace WindowsApp1
+namespace FileIO
 {
     partial class File
     {
