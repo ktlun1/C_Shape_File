@@ -15,32 +15,32 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_8A48AB9E0E1B4773974953902FECB770"
+        "MsmKey" = "8:_5F471724B8EB4FF89F07C73064E9DA77"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_7D5EE55472DA40EDA30AD079892B6591"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_90B7E2901A1D81ED33B12B0D4A1A551E"
-        "OwnerKey" = "8:_A46A9D51D4B743CB980621020D859982"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_A46A9D51D4B743CB980621020D859982"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_A46A9D51D4B743CB980621020D859982"
+        "OwnerKey" = "8:_5F471724B8EB4FF89F07C73064E9DA77"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_90B7E2901A1D81ED33B12B0D4A1A551E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_5F471724B8EB4FF89F07C73064E9DA77"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -138,9 +138,9 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8A48AB9E0E1B4773974953902FECB770"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7D5EE55472DA40EDA30AD079892B6591"
             {
-            "SourcePath" = "8:..\\WindowsApp1\\folder.ico"
+            "SourcePath" = "8:..\\WindowsApp\\folder.ico"
             "TargetName" = "8:folder.ico"
             "Tag" = "8:"
             "Folder" = "8:_5B938ABD6A7346D5B6007697732970E4"
@@ -246,7 +246,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:File IO"
         "ProductCode" = "8:{F6D5F023-5A86-45EB-8F2B-449F4B39C928}"
-        "PackageCode" = "8:{592D1279-8590-4916-B478-FC5549F3CAC4}"
+        "PackageCode" = "8:{5298616F-2924-4133-A798-2130413E6FC9}"
         "UpgradeCode" = "8:{773B80C6-62EC-4AB6-9463-4E4B86FF8C81}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -366,7 +366,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_40932BEC08554E2DA94CA1AC6DEAD665"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_78CDB10F8BA24EF5B7FF42BF2302AAAE"
             {
             "Name" = "8:File IO"
             "Arguments" = "8:"
@@ -374,13 +374,13 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_A46A9D51D4B743CB980621020D859982"
+            "Target" = "8:_5F471724B8EB4FF89F07C73064E9DA77"
             "Folder" = "8:_8D441B37314D4C09B32BD2F08036ACEF"
             "WorkingFolder" = "8:_5B938ABD6A7346D5B6007697732970E4"
-            "Icon" = "8:_8A48AB9E0E1B4773974953902FECB770"
+            "Icon" = "8:_7D5EE55472DA40EDA30AD079892B6591"
             "Feature" = "8:"
             }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_93882724CF1F4E2CBE1DA39B9B82977A"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_FAAD8234212340A6B5D941E018ACD9B5"
             {
             "Name" = "8:File IO"
             "Arguments" = "8:"
@@ -388,10 +388,10 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_A46A9D51D4B743CB980621020D859982"
+            "Target" = "8:_5F471724B8EB4FF89F07C73064E9DA77"
             "Folder" = "8:_8AAF810377A24AA6A28D30C4E22488E8"
             "WorkingFolder" = "8:_5B938ABD6A7346D5B6007697732970E4"
-            "Icon" = "8:_8A48AB9E0E1B4773974953902FECB770"
+            "Icon" = "8:_7D5EE55472DA40EDA30AD079892B6591"
             "Feature" = "8:"
             }
         }
@@ -793,9 +793,9 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_A46A9D51D4B743CB980621020D859982"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_5F471724B8EB4FF89F07C73064E9DA77"
             {
-            "SourcePath" = "8:..\\WindowsApp1\\obj\\Release\\File IO.exe"
+            "SourcePath" = "8:..\\WindowsApp\\obj\\Release\\File IO.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_5B938ABD6A7346D5B6007697732970E4"

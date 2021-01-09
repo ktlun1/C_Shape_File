@@ -16,4 +16,3 @@ C:\Users\User\source\repos\WindowsApp1\WindowsApp\obj\Release\File IO.csproj.Gen
 C:\Users\User\source\repos\WindowsApp1\WindowsApp\obj\Release\File IO.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\WindowsApp1\WindowsApp\obj\Release\File IO.exe
 C:\Users\User\source\repos\WindowsApp1\WindowsApp\obj\Release\File IO.pdb
-C:\Users\User\source\repos\WindowsApp1\WindowsApp\obj\Release\File IO.csprojAssemblyReference.cache

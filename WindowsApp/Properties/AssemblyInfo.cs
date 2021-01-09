@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WindowsApp1")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("File IO")]
+[assembly: AssemblyDescription("File IO Description")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WindowsApp1")]
+[assembly: AssemblyCompany("File IO Company")]
+[assembly: AssemblyProduct("File IO Product")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
